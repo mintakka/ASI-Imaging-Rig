@@ -1,6 +1,15 @@
 ## ASI-Imaging-Rig
 A 3D printable imaging rig for ZWO ASIAir based automated imaging system
-![](Render 1.jpg)
+
+<img src="Render 1.jpg"
+     alt="Render"
+     style="float: left; margin-right: 10px;" />
+<img src="Render 2.jpg"
+     alt="Render"
+     style="float: left; margin-right: 10px;" />
+<img src="Render 3.jpg"
+     alt="Render"
+     style="float: left; margin-right: 10px;" />
 
 ### A few notes:
 
