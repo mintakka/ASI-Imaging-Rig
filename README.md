@@ -13,6 +13,7 @@ A 3D printable imaging rig for ZWO ASIAir based automated imaging system
 
 ### A few notes:
 
+- All the mocked up gear (Camera, Filter Wheel, Lens, etc.) in the main CAD file are dimensionally accurate.
 - This setup works well for me, but note that my system is only 135mm Focal Length and over 5 arcseconds per pixel. There is likely a good amount of flex between the guidescope and the main camera with this system and if you go to 200mm or higher plate scale you may need to modify for better rigidity. 
 - The belt is printable in TPU filament. It works surprisingly well with minimal stretching. Note that the belt and teeth here are not quite standard. YMMV
 
